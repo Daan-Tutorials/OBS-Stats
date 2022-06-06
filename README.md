@@ -3,7 +3,7 @@
 #### GetCurrentProfile
 #### GetCurrentSceneCollection
 #### GetCurrentTransition
-#### [https://github.com/Daan-Tutorials/OBS-Stats/blob/main/README.md#getrecordingstatus-1] GetRecordingStatus
+#### [GetRecordingStatus](doc:README.md#getrecordingstatus-1)
 #### GetStreamingStatus
 #### GetStudioModeStatus
 #### GetVersion
