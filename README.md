@@ -1,16 +1,15 @@
-# OBS-Stats - All the stats that I could find for your OBS is here with streamer.bot
-
-#### GetCurrentProfile
-#### GetCurrentSceneCollection
-#### GetCurrentTransition
-#### [GetRecordingStatus](doc:README.md#getrecordingstatus-1)
-#### GetStreamingStatus
-#### GetStudioModeStatus
-#### GetVersion
-#### GetVideoInfo
-#### GetVirtualCamStatus
-#### SceneCount
-#### SourceCount
+- OBS-Stats - All the stats that I could find for your OBS is here with streamer.bot
+  * [GetCurrentProfile](#getcurrentprofile)
+  * [GetCurrentSceneCollection](#getcurrentscenecollection)
+  * [GetCurrentTransition](#getcurrenttransition)
+  * [GetRecordingStatus](#getrecordingstatus)
+  * [GetStreamingStatus](#getstreamingstatus)
+  * [GetStudioModeStatus](#getstudiomodestatus)
+  * [GetVersion](#getversion)
+  * [GetVideoInfo](#getvideoinfo)
+  * [GetVirtualCamStatus](#getvirtualcamstatus)
+  * [SceneCount](#scenecount)
+  * [SourceCount](#sourcecount)
 
 All the info for these things below.
 
