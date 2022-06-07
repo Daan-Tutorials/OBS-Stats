@@ -3,7 +3,7 @@
   * [GetCurrentSceneCollection](#getcurrentscenecollection)
   * [GetCurrentTransition](#getcurrenttransition)
   * [GetRecordingStatus](#getrecordingstatus)
-  * [GetStats n/a](#getstats)
+  * [GetStats N/A](#getstats)
   * [GetStreamingStatus](#getstreamingstatus)
   * [GetStudioModeStatus](#getstudiomodestatus)
   * [GetVersion](#getversion)
@@ -92,6 +92,6 @@ Message: The source count is: {sources.Count}"
 ---
 
 ## GetStats
-n/a This gets some stats of your obs (fps, cpu-usage).
+This gets some stats of your obs (fps, cpu-usage). N/A
 
 Message: "The stats of my OBS are: {fps} fps, {cpuUsage} cpu-usage"
