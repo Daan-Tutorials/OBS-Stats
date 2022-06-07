@@ -43,7 +43,7 @@ Message: "The current recording status is: {isRecording}"
 ---
 
 ## GetStats
-This gets some stats of your obs (fps, cpu-usage). ** NOT PUBLISHED YET **
+This gets some stats of your obs (fps, cpu-usage). *NOT PUBLISHED YET*
 
 Message: "The stats of my OBS are: {fps} fps, {cpuUsage} cpu-usage"
 
