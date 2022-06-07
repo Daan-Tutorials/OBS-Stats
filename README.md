@@ -4,7 +4,6 @@
    * [GetCurrentSceneCollection](#getcurrentscenecollection)
    * [GetCurrentTransition](#getcurrenttransition)
    * [GetRecordingStatus](#getrecordingstatus)
-   * [GetStats (NOT PUBLISHED YET)](#getstats)
    * [GetStreamingStatus](#getstreamingstatus)
    * [GetStudioModeStatus](#getstudiomodestatus)
    * [GetVersion](#getversion)
@@ -13,12 +12,14 @@
    * [SceneCount](#scenecount)
    * [SourceCount](#sourcecount)
 
-- future ideas not worked on currently
-  > GetRecordingFolder
+- future ideas not published currently
+- [ ] GetRecordingFolder
   
-  > GetCurrentScene
+- [ ] GetCurrentScene
   
-  > GetStreamSettings
+- [ ] GetStreamSettings
+
+- [x] GetStats
 
 
 ---
