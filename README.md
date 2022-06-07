@@ -42,6 +42,13 @@ Message: "The current recording status is: {isRecording}"
 
 ---
 
+## GetStats
+This gets some stats of your obs (fps, cpu-usage). N/A
+
+Message: "The stats of my OBS are: {fps} fps, {cpuUsage} cpu-usage"
+
+---
+
 ## GetStreamingStatus
 This gets the current streaming status of your obs.
 
@@ -88,10 +95,3 @@ Message: "The scene count is: {scenes.Count}"
 This gets the current source count of your obs.
 
 Message: The source count is: {sources.Count}"
-
----
-
-## GetStats
-This gets some stats of your obs (fps, cpu-usage). N/A
-
-Message: "The stats of my OBS are: {fps} fps, {cpuUsage} cpu-usage"
