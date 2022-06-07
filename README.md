@@ -13,9 +13,11 @@
   * [SourceCount](#sourcecount)
 
 - future ideas not worked on currently
-  * GetRecordingFolder
-  * GetCurrentScene
-  * GetStreamSettings
+  > GetRecordingFolder
+  
+  > GetCurrentScene
+  
+  > GetStreamSettings
 
 
 ---
