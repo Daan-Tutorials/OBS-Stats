@@ -12,6 +12,12 @@
   * [SceneCount](#scenecount)
   * [SourceCount](#sourcecount)
 
+- future ideas not worked on currently
+  * GetRecordingFolder
+  * GetCurrentScene
+  * GetStreamSettings
+
+
 ---
 
 ## GetCurrentProfile
