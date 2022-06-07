@@ -3,7 +3,7 @@
   * [GetCurrentSceneCollection](#getcurrentscenecollection)
   * [GetCurrentTransition](#getcurrenttransition)
   * [GetRecordingStatus](#getrecordingstatus)
-  * [GetStats N/A](#getstats)
+  * [GetStats NOT PUBLISHED YET](#getstats)
   * [GetStreamingStatus](#getstreamingstatus)
   * [GetStudioModeStatus](#getstudiomodestatus)
   * [GetVersion](#getversion)
@@ -43,7 +43,7 @@ Message: "The current recording status is: {isRecording}"
 ---
 
 ## GetStats
-This gets some stats of your obs (fps, cpu-usage). N/A
+This gets some stats of your obs (fps, cpu-usage). ** NOT PUBLISHED YET **
 
 Message: "The stats of my OBS are: {fps} fps, {cpuUsage} cpu-usage"
 
